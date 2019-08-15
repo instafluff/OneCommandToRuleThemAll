@@ -1,0 +1,26 @@
+{
+  "name": "onecommandtorulethemall",
+  "version": "1.0.0",
+  "description": "The Comfiest Way to Run Lots of Commands at Once!",
+  "main": "index.js",
+  "dependencies": {
+    "concurrently": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/OneCommandToRuleThemAll.git"
+  },
+  "keywords": [
+    "Instafluff"
+  ],
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/OneCommandToRuleThemAll/issues"
+  },
+  "homepage": "https://github.com/instafluff/OneCommandToRuleThemAll#readme"
+}
